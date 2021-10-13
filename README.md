@@ -1,12 +1,12 @@
 # ASSIGNMENT-02
-DataStructures\
+Data Structures\
 Course Code: CS 201\
-National Institute of Technology, Silchar\
+National Institute of Technology, Silchar.
 
 Submitted by:\
 Amogh Nagunoori\
 2012143\
-CSE Sec-B\
+CSE Sec-B.
 
 Questions:
 
